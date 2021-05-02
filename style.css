@@ -1,0 +1,17 @@
+
+h1 {
+  font-family: "Lucida Handwriting", Times, serif;
+}
+
+h2 {
+  font-family: "Papyrus", Times, serif;
+}
+
+
+ .center {
+  background-color: lightcoral;
+  width: 300px;
+  border: 15px dotted lightcyan;
+  padding: 50px;
+  margin: 20px;
+}
